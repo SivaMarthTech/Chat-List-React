@@ -30,9 +30,10 @@ React.js
 Material UI
 CSS for styling
 
-## Screenrecord:
-Provide some screenrecord here
-https://github.com/user-attachments/assets/c6aaca13-ed37-4039-9ebb-b0b0d3f790fc
-
 ## Contributing:
 Feel free to fork the repository and contribute to the project. For any suggestions or bug reports, please open an issue.
+
+## Screenrecord:
+Provide some screenrecord here
+
+https://github.com/user-attachments/assets/c6aaca13-ed37-4039-9ebb-b0b0d3f790fc
