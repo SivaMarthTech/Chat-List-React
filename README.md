@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/c6aaca13-ed37-4039-9ebb-b0b0d3f790fc
-
 # Chat List App
 
 A simple chat-list app built using React.js and Material UI icons. This app allows users to view notifications, search for contacts, and interact with a chat interface.
@@ -34,8 +30,9 @@ React.js
 Material UI
 CSS for styling
 
-## Screenshots:
-Provide some screenshots here
+## Screenrecord:
+Provide some screenrecord here
+https://github.com/user-attachments/assets/c6aaca13-ed37-4039-9ebb-b0b0d3f790fc
 
 ## Contributing:
 Feel free to fork the repository and contribute to the project. For any suggestions or bug reports, please open an issue.
